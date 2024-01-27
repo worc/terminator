@@ -91,6 +91,24 @@ class PrefsEditor:
                 'rxvt': '#000000:#cd0000:#00cd00:#cdcd00:#0000cd:\
 #cd00cd:#00cdcd:#faebd7:#404040:#ff0000:#00ff00:#ffff00:#0000ff:\
 #ff00ff:#00ffff:#ffffff',
+		## standard:
+		# black: #2e3436 -- rgb(46, 52, 54)
+		# red: #cc0000 -- rgb(204, 0, 0)
+		# green: #4e9a06 -- rgb(78, 154, 6)
+		# yellow: #c4a000 -- rgb(196, 160, 0)
+		# blue: #3465a4 -- rgb(52, 101, 164)
+		# purple: #75507b -- rgb(117, 80, 123)
+		# cyan: #06989a -- rgb(6, 152, 154)
+		# white: #d3d7cf -- rgb(211, 215, 207)
+		## bright
+		# black: #555753 -- rgb(85, 87, 83)
+		# red: #ef2929 -- rgb(239, 41, 41)
+		# green: #8ae234 -- rgb(138, 226, 52)
+		# yellow: #fce94f -- rgb(252, 233, 79)
+		# blue: #729fcf -- rgb(114, 159, 207)
+		# purple: #ad7fa8 -- rgb(173, 127, 168)
+		# cyan: #34e2e2 -- rgb(52, 226, 226)
+		# white :#eeeeec -- rgb(238, 238, 236)
                 'ambience': '#2e3436:#cc0000:#4e9a06:#c4a000:\
 #3465a4:#75507b:#06989a:#d3d7cf:#555753:#ef2929:#8ae234:#fce94f:\
 #729fcf:#ad7fa8:#34e2e2:#eeeeec',
